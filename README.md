@@ -12,5 +12,5 @@ CEO da futura startup <b>AIDigital.</b>
 
 <br>
 
-<a href="https://www.linkedin.com/in/carlos-macedo-2557513b4/"><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/e18eac59-4f6e-448f-9241-cbf456969fbd"/></a>
-<a href="https://www.instagram.com/ai.digitaal/"><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/25bdc1dc-72d4-424c-bda5-d051b767dba7"/></a>
+<a href="https://www.linkedin.com/in/carlos-macedo-2557513b4/" target="_blank"><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/e18eac59-4f6e-448f-9241-cbf456969fbd"/></a>
+<a href="https://www.instagram.com/ai.digitaal/" target="_blank"><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/25bdc1dc-72d4-424c-bda5-d051b767dba7"/></a>
