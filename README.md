@@ -1,13 +1,16 @@
-Olá New Dev, Mineiro de 26 anos.<br>
-CEO da futura startup AIDigital.
+<h1>New Dev 😁</h1> 
 
-Vou deixar os links aqui, é um Prazer em conhecer vocês! 
+Mineiro de 26 anos.<br>
+CEO da futura startup <b>AIDigital.</b>
 
-<a href="https://www.linkedin.com/in/carlos-macedo-2557513b4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ8AAPfKFTRalLudSxVuU6A%3D%3D"><img src="https://share.google/5XoG0fvSO5xT3w71q" alt="Linkedin"></a>
+<h3>Conhecedor das tecnologias:</h3>
 
-<style>
-img {
-    width:10px;
-    heght:10px;
-}
-</style>
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/2af6259d-c520-43c0-9cc6-dd0064a0816b"/>
+<br>
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/9a2d6613-5f12-4562-8d60-280714b615aa" /><br>
+<img width="34" height="34" alt="image" src="https://github.com/user-attachments/assets/e7736442-9223-4837-839d-2f87daef6f85" /><br>
+
+<br>
+
+<a href="https://www.linkedin.com/in/carlos-macedo-2557513b4/"><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/e18eac59-4f6e-448f-9241-cbf456969fbd"/></a>
+<a href="https://www.instagram.com/ai.digitaal/"><img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/25bdc1dc-72d4-424c-bda5-d051b767dba7"/></a>
